@@ -1,0 +1,21 @@
+{
+  "name": "manishraghavendra-dark",
+  "displayName": "MR-Theme",
+  "description": "manish.rocks theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "manish.rocks",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manish.rocks-color-theme.json"
+      }
+    ]
+  }
+}
